@@ -1,0 +1,41 @@
+#上传到git上的文件需要忽略掉一些文件
+
+*.class
+
+#package file
+*.rar
+*.zip
+*.war
+*.ear
+
+#kdiff3 file
+*.orig
+
+#maven file
+target/
+
+#eclipse file
+.settings/
+.project
+.classpatch
+
+#idea file
+*.iml
+*.iws
+.idea/
+/idea/
+*.ipr
+
+#temp file
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+#system file
+.DS_store
+Thumbs.db
+
+
+
