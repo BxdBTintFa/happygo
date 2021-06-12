@@ -22,7 +22,7 @@ target/
 #idea file
 *.iml
 *.iws
-.idea/
+.idea
 /idea/
 *.ipr
 
